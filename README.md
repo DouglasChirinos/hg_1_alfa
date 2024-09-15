@@ -2,6 +2,7 @@
 
 
 | Nombre           | Alias   | Ubicacion  |
+|------------------|---------|------------|
 | Javier Olivares  | Bravo   | Venezuela  |
 | isael            | Charlie | Venezuela  |
 | Yoselin Rada     | Delta   | Venezuela  |
