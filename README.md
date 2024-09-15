@@ -1,8 +1,9 @@
 # Douglas Chirinos
 
 ```
-Nombre           Ubicacion
-Javier Olivares  PULL request Bravo
+|Nombre |Alias|          Ubicacion
+|Javier Olivares| Bravo  | Venezuela
+
 isael            PULL request Charlie
 Yoiser           PULL request Delta
 Klever           PULL request Echo
