@@ -1,11 +1,10 @@
 # Douglas Chirinos
 
-```
-|Nombre |Alias|          Ubicacion
-|Javier Olivares| Bravo  | Venezuela
 
-isael            PULL request Charlie
-Yoiser           PULL request Delta
-Klever           PULL request Echo
-SsJp26           PULL request Foxs
-```
+| Nombre           | Alias   | Ubicacion  |
+| Javier Olivares  | Bravo   | Venezuela  |
+| isael            | Charlie | Venezuela  |
+| Yoselin Rada     | Delta   | Venezuela  |
+| Klever Hernandez | Echo    | Venezuela  |
+| SsJp26           | Foxs    | Venezuela  |
+
