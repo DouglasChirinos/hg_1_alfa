@@ -2,7 +2,7 @@
 
 - [x] Alfa
 - [ ] Bravo
-- [ ] Charlie
+- [x] Charlie
 - [ ] Delta
 - [ ] Echo
 - [ ] FOXS
