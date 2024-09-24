@@ -1,7 +1,7 @@
 # Tipo de usuario
 
 - [x] Alfa
-- [ ] Bravo
+- [X] Bravo
 - [x] Charlie
 - [ ] Delta
 - [ ] Echo
