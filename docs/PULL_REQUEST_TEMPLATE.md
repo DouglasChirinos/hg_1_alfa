@@ -4,12 +4,12 @@
 - [X] Bravo
 - [x] Charlie
 - [ ] Delta
-- [ ] Echo
-- [ ] FOXS
+- [x] Echo
+- [x] FOXS
 
 # Seleccione el tipo de actividad
 
-- [ ] Feature
+- [x] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
